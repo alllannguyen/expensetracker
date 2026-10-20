@@ -1,0 +1,2455 @@
+{
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk/toolkit-lib..."
+      ]
+    },
+    {
+      "type": "aws:cdk:stack-tags",
+      "data": [
+        {
+          "key": "amplify:deployment-type",
+          "value": "sandbox"
+        },
+        {
+          "key": "created-by",
+          "value": "amplify"
+        }
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/deploymentType": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "deploymentType"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk/toolkit-lib..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/region": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "region"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk/toolkit-lib..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/userPoolId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "userPoolId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/webClientId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "webClientId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/identityPoolId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "identityPoolId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/authRegion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "authRegion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/allowUnauthenticatedIdentities": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "allowUnauthenticatedIdentities"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/signupAttributes": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "signupAttributes"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/usernameAttributes": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "usernameAttributes"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/verificationMechanisms": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "verificationMechanisms"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/passwordPolicyMinLength": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "passwordPolicyMinLength"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/passwordPolicyRequirements": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "passwordPolicyRequirements"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/mfaConfiguration": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "mfaConfiguration"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/mfaTypes": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "mfaTypes"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/passwordlessOptions": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "passwordlessOptions"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/socialProviders": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "socialProviders"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/oauthCognitoDomain": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "oauthCognitoDomain"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/oauthScope": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "oauthScope"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/oauthRedirectSignIn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "oauthRedirectSignIn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/oauthRedirectSignOut": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "oauthRedirectSignOut"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/oauthResponseType": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "oauthResponseType"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/oauthClientId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "oauthClientId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/groups": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "groups"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/awsAppsyncApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/awsAppsyncApiEndpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncApiEndpoint"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/awsAppsyncAuthenticationType": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncAuthenticationType"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/awsAppsyncRegion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncRegion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/amplifyApiModelSchemaS3Uri": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyApiModelSchemaS3Uri"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/awsAppsyncAdditionalAuthenticationTypes": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncAdditionalAuthenticationTypes"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend-output-storage, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthUserPool79EB2CBFRef": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthUserPool79EB2CBFRef"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthUserPoolAppClient349ACAC4Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthUserPoolAppClient349ACAC4Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthIdentityPool64141B59Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthIdentityPool64141B59Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthauthenticatedUserRoleF255DB33Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthauthenticatedUserRoleF255DB33Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthunauthenticatedUserRole4B2997B5Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthunauthenticatedUserRole4B2997B5Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth.NestedStack/auth.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "auth179371D7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/DynamoDBModelTableReadIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableReadIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/DynamoDBModelTableWriteIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableWriteIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/DynamoDBBillingMode": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBBillingMode"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/DynamoDBEnablePointInTimeRecovery": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnablePointInTimeRecovery"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/DynamoDBEnableServerSideEncryption": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnableServerSideEncryption"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::S3AutoDeleteObjectsCustomResourceProvider": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-customResourceProvider",
+      "data": true
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-singleton",
+      "data": true
+    },
+    {
+      "type": "aws:cdk:is-custom-resource-handler-runtime-family",
+      "data": 2
+    },
+    {
+      "type": "aws:cdk:is-custom-resource-handler-singleton",
+      "data": true
+    },
+    {
+      "type": "aws:cdk:is-custom-resource-handler-runtime-family",
+      "data": 2
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthUserPool79EB2CBFRef": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthUserPool79EB2CBFRef"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthauthenticatedUserRoleF255DB33Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthauthenticatedUserRoleF255DB33Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthunauthenticatedUserRole4B2997B5Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthunauthenticatedUserRole4B2997B5Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthIdentityPool64141B59Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthIdentityPool64141B59Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAGraphQLUrl": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAGraphQLUrl"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentCustomResource1536MiBB00405CBDestinationBucketArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentCustomResource1536MiBB00405CBDestinationBucketArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data.NestedStack/data.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "data7552DF31"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyAuth/IdentityPool": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyAuthIdentityPool3FDE84CC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyAuth/IdentityPoolRoleAttachment": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyAuthIdentityPoolRoleAttachment045F17C8"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify/backend...",
+        "<anonymous> (/home/allan/Documents/Projects/ServerlessLab6/Part4/expensetracker/amplify/backend.ts:8:1)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::S3AutoDeleteObjectsCustomResourceProvider/Role": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderRole3B1BD092"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::S3AutoDeleteObjectsCustomResourceProvider/Handler": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderHandler9D90184F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomCDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiBC5D8AB21"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/modelIntrospectionSchemaBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketF566B665"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/AMPLIFY_DATA_GRAPHQL_ENDPOINTParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATAGRAPHQLENDPOINTParameter1C2CBB16"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/AMPLIFY_DATA_MODEL_INTROSPECTION_SCHEMA_BUCKET_NAMEParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATAMODELINTROSPECTIONSCHEMABUCKETNAMEParameter47BF4F44"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/AMPLIFY_DATA_MODEL_INTROSPECTION_SCHEMA_KEYParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATAMODELINTROSPECTIONSCHEMAKEYParameterB6AEAE8A"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/AMPLIFY_DATA_DEFAULT_NAMEParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATADEFAULTNAMEParameterE7C23CC4"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyAuth/UserPool/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyAuthUserPool4BA7F805"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyAuth/UserPoolAppClient/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyAuthUserPoolAppClient2626C6F8"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)",
+        "...@aws-amplify/backend..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyAuth/authenticatedUserRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyAuthauthenticatedUserRoleD8DA3689"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/auth/amplifyAuth/unauthenticatedUserRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyAuthunauthenticatedUserRole2B524D9E"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/auth-construct, @aws-amplify/backend-auth, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/GraphQLAPI/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPI42A6FA33"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/GraphQLAPI/TransformerSchema": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPITransformerSchemaFF50A789"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/GraphQLAPI/NONE_DS": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "NONE_DS"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyTableManagerTableManagerCustomProviderframeworkonEventCFC6135DArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyTableManagerTableManagerCustomProviderframeworkonEventCFC6135DArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager.NestedStack/AmplifyTableManager.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyTableManagerNestedStackAmplifyTableManagerNestedStackResource86290833"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/DynamoDBModelTableReadIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableReadIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/DynamoDBModelTableWriteIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableWriteIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/DynamoDBBillingMode": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBBillingMode"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/DynamoDBEnablePointInTimeRecovery": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnablePointInTimeRecovery"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/DynamoDBEnableServerSideEncryption": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnableServerSideEncryption"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/HasEnvironmentParameter": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "HasEnvironmentParameter"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ShouldUsePayPerRequestBilling": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ShouldUsePayPerRequestBilling"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ShouldUsePointInTimeRecovery": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ShouldUsePointInTimeRecovery"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseTable": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Expense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/CustomTableExpenseTable": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Expense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/GetAttExpenseTableStreamArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "GetAttExpenseTableStreamArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/GetAttExpenseTableName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "GetAttExpenseTableName"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseIAMRole": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "ExpenseIAMRole"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseDataSource": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "ExpenseTable"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/queryGetExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "GetExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Query.getExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/queryListExpensesResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ListExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Query.listExpenses"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/mutationCreateExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CreateExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Mutation.createExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/mutationUpdateExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UpdateExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Mutation.updateExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/mutationDeleteExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DeleteExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Mutation.deleteExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/subscriptionOnCreateExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononCreateExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Subscription.onCreateExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/subscriptionOnUpdateExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononUpdateExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Subscription.onUpdateExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/subscriptionOnDeleteExpenseResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononDeleteExpenseResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Subscription.onDeleteExpense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/expenseOwnerResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExpenseownerResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Expense.owner"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyTableManagerNestedStackAmplifyTableManagerNestedStackResource62C8BC17Outputs.amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyTableManagerTableManagerCustomProviderframeworkonEventCFC6135DArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyTableManagerNestedStackAmplifyTableManagerNestedStackResource62C8BC17Outputsamplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataAmplifyTableManagerTableManageBCAAE9F6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPIF08408AAApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPINONEDS1DC78F33Name": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bdataamplifyDataGraphQLAPINONEDS1DC78F33Name"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthauthenticatedUserRoleF255DB33Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthauthenticatedUserRoleF255DB33Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthunauthenticatedUserRole4B2997B5Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthunauthenticatedUserRole4B2997B5Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/reference-to-amplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputs.amplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthIdentityPool64141B59Ref": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifyexpensetrackerallansandboxe410dd0c1bauthNestedStackauthNestedStackResourceFEAF5FEDOutputsamplifyexpensetrackerallansandboxe410dd0c1bauthamplifyAuthIdentityPool64141B59Ref"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend, node internals...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense.NestedStack/Expense.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataExpenseNestedStackExpenseNestedStackResource456F16BB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB/ServiceRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomCDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiBServiceRoleA41FC8C2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/modelIntrospectionSchemaBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketPolicy4DAB0D15"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/modelIntrospectionSchemaBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketAutoDeleteObjectsCustomResourceFE57309F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/modelIntrospectionSchemaBucketDeployment/AwsCliLayer/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketDeploymentAwsCliLayer13C432F7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/modelIntrospectionSchemaBucketDeployment/CustomResource-1536MiB/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketDeploymentCustomResource1536MiB104B97EC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/GraphQLAPI/NONE_DS/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPINONEDS684BF699"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "NONE_DS"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/AmplifyManagedTableIsCompleteRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyManagedTableIsCompleteRoleF825222C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/AmplifyManagedTableOnEventRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyManagedTableOnEventRoleB4E71DEA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/AmplifyTableWaiterStateMachine/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyTableWaiterStateMachine060600BC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseIAMRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExpenseIAMRole6AD977E6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "ExpenseIAMRole"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseDataSource/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExpenseDataSource"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "ExpenseTable"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/QuerygetExpenseauth0Function/QuerygetExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerygetExpenseauth0FunctionQuerygetExpenseauth0FunctionAppSyncFunctionF30409CF"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerygetExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/QuerygetExpensepostAuth0Function/QuerygetExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerygetExpensepostAuth0FunctionQuerygetExpensepostAuth0FunctionAppSyncFunction469B96B6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerygetExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/QueryGetExpenseDataResolverFn/QueryGetExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QueryGetExpenseDataResolverFnQueryGetExpenseDataResolverFnAppSyncFunction851CEC7E"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QueryGetExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/QuerylistExpensesauth0Function/QuerylistExpensesauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistExpensesauth0FunctionQuerylistExpensesauth0FunctionAppSyncFunction9B3B4BE4"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerylistExpensesauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/QuerylistExpensespostAuth0Function/QuerylistExpensespostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistExpensespostAuth0FunctionQuerylistExpensespostAuth0FunctionAppSyncFunctionBC8CB2BC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerylistExpensespostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/QueryListExpensesDataResolverFn/QueryListExpensesDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QueryListExpensesDataResolverFnQueryListExpensesDataResolverFnAppSyncFunction49A7EA97"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QueryListExpensesDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationcreateExpenseinit0Function/MutationcreateExpenseinit0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationcreateExpenseinit0FunctionMutationcreateExpenseinit0FunctionAppSyncFunction13417073"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationcreateExpenseinit0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationcreateExpenseauth0Function/MutationcreateExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationcreateExpenseauth0FunctionMutationcreateExpenseauth0FunctionAppSyncFunction91BA7CBE"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationcreateExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationcreateExpensepostAuth0Function/MutationcreateExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationcreateExpensepostAuth0FunctionMutationcreateExpensepostAuth0FunctionAppSyncFunction4BF63675"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationcreateExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationCreateExpenseDataResolverFn/MutationCreateExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationCreateExpenseDataResolverFnMutationCreateExpenseDataResolverFnAppSyncFunction90287C1C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationCreateExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationupdateExpenseinit0Function/MutationupdateExpenseinit0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationupdateExpenseinit0FunctionMutationupdateExpenseinit0FunctionAppSyncFunction1D5702A1"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationupdateExpenseinit0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationupdateExpenseauth0Function/MutationupdateExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationupdateExpenseauth0FunctionMutationupdateExpenseauth0FunctionAppSyncFunction621469DD"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationupdateExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationupdateExpensepostAuth0Function/MutationupdateExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationupdateExpensepostAuth0FunctionMutationupdateExpensepostAuth0FunctionAppSyncFunction0CBCC099"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationupdateExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationUpdateExpenseDataResolverFn/MutationUpdateExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationUpdateExpenseDataResolverFnMutationUpdateExpenseDataResolverFnAppSyncFunctionA57E4FFF"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationUpdateExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationdeleteExpenseauth0Function/MutationdeleteExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationdeleteExpenseauth0FunctionMutationdeleteExpenseauth0FunctionAppSyncFunctionD622F394"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationdeleteExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationdeleteExpensepostAuth0Function/MutationdeleteExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationdeleteExpensepostAuth0FunctionMutationdeleteExpensepostAuth0FunctionAppSyncFunctionA0E9EBD9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationdeleteExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/MutationDeleteExpenseDataResolverFn/MutationDeleteExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationDeleteExpenseDataResolverFnMutationDeleteExpenseDataResolverFnAppSyncFunctionD6073898"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationDeleteExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptiononCreateExpenseauth0Function/SubscriptiononCreateExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononCreateExpenseauth0FunctionSubscriptiononCreateExpenseauth0FunctionAppSyncFunction8D177E04"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononCreateExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptiononCreateExpensepostAuth0Function/SubscriptiononCreateExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononCreateExpensepostAuth0FunctionSubscriptiononCreateExpensepostAuth0FunctionAppSyncFunction80F01BFF"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononCreateExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptionOnCreateExpenseDataResolverFn/SubscriptionOnCreateExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptionOnCreateExpenseDataResolverFnSubscriptionOnCreateExpenseDataResolverFnAppSyncFunction88F175AF"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptionOnCreateExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptiononUpdateExpenseauth0Function/SubscriptiononUpdateExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononUpdateExpenseauth0FunctionSubscriptiononUpdateExpenseauth0FunctionAppSyncFunctionEA13C61B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononUpdateExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptiononUpdateExpensepostAuth0Function/SubscriptiononUpdateExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononUpdateExpensepostAuth0FunctionSubscriptiononUpdateExpensepostAuth0FunctionAppSyncFunction3EDB63B5"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononUpdateExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptionOnUpdateExpenseDataResolverFn/SubscriptionOnUpdateExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptionOnUpdateExpenseDataResolverFnSubscriptionOnUpdateExpenseDataResolverFnAppSyncFunction8D36671F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptionOnUpdateExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptiononDeleteExpenseauth0Function/SubscriptiononDeleteExpenseauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononDeleteExpenseauth0FunctionSubscriptiononDeleteExpenseauth0FunctionAppSyncFunctionCF172D45"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononDeleteExpenseauth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptiononDeleteExpensepostAuth0Function/SubscriptiononDeleteExpensepostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononDeleteExpensepostAuth0FunctionSubscriptiononDeleteExpensepostAuth0FunctionAppSyncFunctionEAC3C516"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononDeleteExpensepostAuth0Function"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/SubscriptionOnDeleteExpenseDataResolverFn/SubscriptionOnDeleteExpenseDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptionOnDeleteExpenseDataResolverFnSubscriptionOnDeleteExpenseDataResolverFnAppSyncFunctionD5BFCBAB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptionOnDeleteExpenseDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseOwnerDataResolverFn/ExpenseOwnerDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExpenseOwnerDataResolverFnExpenseOwnerDataResolverFnAppSyncFunction16BC0E2B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "ExpenseOwnerDataResolverFn"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsBucket9CCB4ACA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, <anonymous> in @aws-amplify/backend...",
+        "Array.forEach (:)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB/ServiceRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomCDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiBServiceRoleDefaultPolicyFF1C635B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/AmplifyManagedTableOnEventRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyManagedTableOnEventRoleDefaultPolicyF6DABCB6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/TableManagerCustomProvider/framework-onEvent/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "TableManagerCustomProviderframeworkonEvent1DFC2ECC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/TableManagerCustomProvider/framework-isComplete/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "TableManagerCustomProviderframeworkisComplete2E51021B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/AmplifyTableWaiterStateMachine/Role/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyTableWaiterStateMachineRole470BE899"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify/graphql-api-construct..."
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/Expense/ExpenseTable/Default/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExpenseTable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify/graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify/graphql-api-construct...",
+        "Map.forEach (:)"
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Expense"
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsBucketPolicyF1C1C548"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsBucketAutoDeleteObjectsCustomResource437F26F5"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsDeployment/AwsCliLayer/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentAwsCliLayerE322F905"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsDeployment/CustomResource-1536MiB/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentCustomResource1536MiB21775929"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct, @aws-amplify/backend-data, @aws-amplify/backend...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-expensetracker-allan-sandbox-e410dd0c1b/data/amplifyData/AmplifyTableManager/AmplifyTableWaiterStateMachine/Role/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyTableWaiterStateMachineRoleDefaultPolicy89F3836A"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify/graphql-api-construct...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ]
+}
